@@ -1,6 +1,6 @@
 # NotesApp-master
 
-## NoteApp Allows Involves Following.
+### NoteApp Allows Involves Following.
 
 1.Register through Google, Phone, Email.
 
